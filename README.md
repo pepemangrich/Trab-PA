@@ -11,3 +11,6 @@ Este projeto simula um contrato inteligente para registro de inscrição em disc
 - Consulta de disciplinas
 - Testes automatizados com Hardhat
 - Pipeline CI/CD com GitHub Actions
+
+
+Testando CI/CD no GitHub Actions
